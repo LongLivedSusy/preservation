@@ -1,4 +1,4 @@
-msbottom     mchi            obs     exp-2sigma     exp-1sigma            exp     exp+1sigma     exp+2sigma
+msbottom   mchi10            obs     exp-2sigma     exp-1sigma            exp     exp+1sigma     exp+2sigma
      400        1     0.24055981     0.10035009     0.15963877     0.28562722     0.53820500     0.86589513
      400       50     0.00075210     0.00038984     0.00057733     0.00092390     0.00150547     0.00232035
      400      100     0.00141839     0.00077279     0.00112601     0.00173497     0.00274416     0.00414804
